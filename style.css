@@ -1,0 +1,53 @@
+.mainimg{
+    width:100vw;
+    height:800px;
+}
+.rel{
+    position: relative;
+}
+.abs{
+    position: absolute;
+}
+.maintext{
+    position: absolute;
+    top:8%;
+    left:28%;
+}
+.subtext{
+     position: absolute;
+     top:72%;
+     left:29%;
+}
+.design{
+    color:#176B87 !important;
+    font-family: 'GFS Didot',serif !important;
+   }
+.pro{
+    text-decoration:underline;
+}
+.size1{
+    font-size: 3.625rem;
+}
+.size2{
+    font-size: 3rem;
+}
+.size3{
+    font-size: 2.8rem !important;
+}
+.size4{
+    font-size: 2.5rem !important;
+}
+.personal-img{
+    width:300px;
+    border-radius: 50%;
+}
+hr{
+    border: dotted #176B87 6px;
+    border-bottom: none;
+    width: 4% !important;
+    margin-top: 100px;
+}
+.btn{
+    background-color: #176B87 !important;
+    color: white;
+}
